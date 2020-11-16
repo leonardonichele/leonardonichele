@@ -9,7 +9,7 @@
 <br />
 <br />
 
-Welcome to my Github Profile, I'm Leonardo da Silva Nichele, from Brazil, Beside's programming, I love podcasts and games.
+Welcome to my Github Profile! I'm from Brazil and I've 17 years old, beside's programming, I love podcasts and games.
   
 **Personal Stuffs:**
 
