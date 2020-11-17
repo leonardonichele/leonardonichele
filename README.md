@@ -14,8 +14,6 @@ Welcome to my Github Profile! I'm from Brazil and I've 17 years old, beside's pr
 **Personal Stuffs:**
 
 - 🌱 I’m currently learning NodeJS; 
-- 🤔 I’m looking for help with the developer road 🤝;
-- ⚡️ FlowsLabs - My future own company. 
 - 📫 How to reach me: leonardonichelework@outlook.com;
 
 **Languages and Tools:**  
