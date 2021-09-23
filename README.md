@@ -9,7 +9,7 @@
 <br />
 <br />
 
-Welcome to my Github Profile! I'm from Brazil and I've 17 years old, beside's programming, I love podcasts and games.
+Welcome to my Github Profile! I'm from Brazil and I've 18 years old, beside's programming, I love podcasts and games.
 
 - 📫 How to reach me: leonardonichelework@outlook.com;
 
